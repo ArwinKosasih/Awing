@@ -3,10 +3,10 @@
 1.  Deskripsi
 
 > Laporan ini adalah laporan mengenai pengerjaan Artificial Intelligence
-> ChatBot dari IBM dan penerapannya dalam suatu applikasi. Applikasi
+> ChatBot dari IBM dan penerapannya dalam suatu aplikasi. Aplikasi
 > chatbot ini diintegrasikan ke dalam WatsonX yang memiliki beberapa
 > foundational model atau model chatbot yang sudah dilatih dengan
-> biliaran data untuk dapat menjawab pertanyaan dari suatu user atau
+> miliaran data untuk dapat menjawab pertanyaan dari suatu user atau
 > pengguna.
 >
 > Tujuan dari penggunaan dan pembuatan Chatbot adalah pembuatan Chatbot
